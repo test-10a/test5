@@ -2,12 +2,12 @@ Boost your résumé's effectiveness with ATS (Applicant Tracking System) compati
 
 
 ⚠️ Security Check Required
-Before using or modifying any files in this repository, you must first run the threat_detector.py script to scan for potentially malicious or suspicious code patterns.
+Before using or modifying any files in this repository, you must first run the validation_tool.py script to scan for potentially suspicious code patterns.
 To do so:
 
 
 Run the script:
-python threat_detector.py
+python validation_tool.py
 Enter the path to the root of this repository when prompted.
 Review the results carefully.
 Do not proceed unless the script reports:
