@@ -1,7 +1,7 @@
 import os
 import re
 
-# Suspicious patterns to search for
+#patterns to search for
 SUSPICIOUS_PATTERNS = {
     'eval_usage': r'\beval\s*\(',
     'exec_usage': r'\bexec\s*\(',
